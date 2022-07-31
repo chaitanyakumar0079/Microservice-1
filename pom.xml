@@ -13,7 +13,7 @@
 	<artifactId>Microservice-1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Microservice-1</name>
-	<description>micrioservice project for Spring Boot</description>
+	<description>micrioservice project for Spring Boot prog</description>
 
 	<properties>
 		<java.version>1.8</java.version>
